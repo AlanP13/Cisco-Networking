@@ -4,4 +4,3 @@ This project involved designing a comprehensive network infrastructure for a com
 
 ### Skills: Network Architecture · Team Management
 
-![alt text](https://alanp13.github.io/web-portfolio/static/media/computernetworkcourse1.dc3b3941d5cec111a789.png)
